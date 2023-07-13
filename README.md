@@ -22,6 +22,7 @@ Data Souce: Collected data from UCI repository
 
 <p>&nbsp;</p>
 <p></p>
+
 #### 2. Is gender related to diabetes status?
 
        Chi2ContingencyResult(statistic=103.03685927972558, pvalue=3.289703730553317e-24, dof=1, expected_freq=array([[126.15384615,  73.84615385],
@@ -34,6 +35,7 @@ Data Souce: Collected data from UCI repository
 
 <p>&nbsp;</p>
 <p></p>
+
 #### 3. Is polyuria related to obesity status?
 
        Chi2ContingencyResult(statistic=227.86583895496773, pvalue=1.7409117803442155e-51, dof=1, expected_freq=array([[100.76923077,  99.23076923],
@@ -112,6 +114,7 @@ feature	importance
   
 
 <p>&nbsp;</p>
+
 #### Logistic regression model
 
 
@@ -134,6 +137,7 @@ feature	importance
 #### The Accuracy Score of the Decision Tree model is the highest at 95% compared to logistic regression model at 90%
 
 <p>&nbsp;</p>
+
 #### Random Forest Model
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/a7c3e8e1-68b8-48a1-b701-b159ca7a9bf4)
