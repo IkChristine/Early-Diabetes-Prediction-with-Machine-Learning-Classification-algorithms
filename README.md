@@ -2,7 +2,7 @@
 Logistic Regression, Decision Tree, &amp; Random Forest
 
 
-#### This project aims to train machine mearning classification medels to predict whether a patient  is at risk of developing diabetes. 
+#### This project aims to train machine mearning classification models to predict whether a patient  is at risk of developing diabetes. 
 #### Key indicators (symptoms) correlated to diabetes will be identified.
 #### This project will be usuful to clinicials, as it will help them avoid missing the False Positive cases who may go undiagnosed.
 
