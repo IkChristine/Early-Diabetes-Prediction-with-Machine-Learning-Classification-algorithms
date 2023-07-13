@@ -9,6 +9,7 @@ Logistic Regression, Decision Tree, &amp; Random Forest
 Data Souce: Collected data from UCI repository
 
 <p>&nbsp;</p>
+
 ### Questions  to answer:
 
 #### 1. Is obesity related to diabetes status? or is it independent
