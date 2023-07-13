@@ -11,8 +11,8 @@ Data Souce: Collected data from UCI repository
 <p></p>
 ### Questions  to answer:
 #### 1. Is obesity related to diabetes status? or is it independent
-Chi2ContingencyResult(statistic=2.3274739583333344, pvalue=0.12710799319896815, dof=1, expected_freq=array([[166.15384615,  33.84615385],
-       [265.84615385,  54.15384615]]))
+        <p>Chi2ContingencyResult(statistic=2.3274739583333344, pvalue=0.12710799319896815, dof=1, expected_freq=array([[166.15384615,  33.84615385],
+       [265.84615385,  54.15384615]]))<p>
 
        The P-Value of 0.127 shows there is no significant evidence that there is a relationship between obsesity status and diabetes. 
 The expected freq array shows the values if everything was independent. Any deviation from the independent cross tab will be deemed dependent. 
