@@ -58,6 +58,7 @@ Therefore array shown is similar to the chi2 cross tab numbers, and can say that
 
 
 <p>&nbsp;</p>
+
 #### Correlation heatmap
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/89ba799f-a9ab-4c37-a2fa-e10daa549700)
