@@ -123,9 +123,9 @@ feature	importance
 * lower False positives (5) and False Negatives(5) in the logistic model
 
 
-* ##### Accuracy score has gone up from 52% in dummy model to 90% in logistic model
-* ##### precision, recall and f1-scores have all increased as well
-* ##### This means that the logistic model a better model to predict diabetes than the dummy classifier model
+*  Accuracy score has gone up from 52% in dummy model to 90% in logistic model
+*  Precision, recall and f1-scores have all increased as well
+*  This means that the logistic model a better model to predict diabetes than the dummy classifier model
 
 <p>&nbsp;</p>
 
@@ -142,9 +142,9 @@ feature	importance
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/a7c3e8e1-68b8-48a1-b701-b159ca7a9bf4)
 
-#### * The Random Forest model identified 1 False Negative and 4 False Positive cases.
-#### * The Random Forest Classification model has an accuracy of 95%
-#### * This is slighly lower compared to the Decision tree regression model accuracy of 96%
+ * The Random Forest model identified 1 False Negative and 4 False Positive cases.
+ * The Random Forest Classification model has an accuracy of 95%
+ * This is slighly lower compared to the Decision tree regression model accuracy of 96%
 
 
 ### The overall best model in this analysis is the Decision tree at 95% prediction accuracy.
