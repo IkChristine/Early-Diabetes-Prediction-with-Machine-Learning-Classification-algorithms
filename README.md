@@ -133,8 +133,8 @@ feature	importance
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/77035792-ef93-4bc9-b1f8-53f8031dc824)
 
-#### The Decision Tree model identified 4 False Positive and Zero False Negative Values
-#### The Accuracy Score of the Decision Tree model is the highest at 95% compared to logistic regression model at 90%
+* The Decision Tree model identified 4 False Positive and Zero False Negative Values
+* The Accuracy Score of the Decision Tree model is the highest at 95% compared to logistic regression model at 90%
 
 <p>&nbsp;</p>
 
