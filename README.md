@@ -8,7 +8,6 @@ Classification algorithms - Logistic Regression, Decision Tree, &amp; Random For
 
 Data Souce: Collected data from UCI repository
 
-<p></p>
 ### Questions  to answer:
 #### 1. Is obesity related to diabetes status? or is it independent
        <p>Chi2ContingencyResult(statistic=2.3274739583333344, pvalue=0.12710799319896815, dof=1, expected_freq=array([[166.15384615,  33.84615385],
@@ -21,38 +20,38 @@ Therefore array shown is similar to the chi2 cross tab numbers, and can say that
 <p></p>
 #### 2. Is gender related to diabetes status?
 
-Chi2ContingencyResult(statistic=103.03685927972558, pvalue=3.289703730553317e-24, dof=1, expected_freq=array([[126.15384615,  73.84615385],
+       Chi2ContingencyResult(statistic=103.03685927972558, pvalue=3.289703730553317e-24, dof=1, expected_freq=array([[126.15384615,  73.84615385],
        [201.84615385, 118.15384615]]))
 
-       The p-value is 3.29e-24, meaning that there is significant evidence that there is a relationship between a postitive diabetes status and gender. 
-The Independent array values are significantly differnt from the cross tab values therefore shows that obsesity status and gender are dependednt (there is a relationship)
-There is significantly more females with diabetes compared to those without diabestes. (173)
-There is significantly more males with out diabetes (181) than those with diabetes.
+* The p-value is 3.29e-24, meaning that there is significant evidence that there is a relationship between a postitive diabetes status and gender. 
+* The Independent array values are significantly differnt from the cross tab values therefore shows that obsesity status and gender are dependednt (there is a relationship)
+* There is significantly more females with diabetes compared to those without diabestes. (173)
+* There is significantly more males with out diabetes (181) than those with diabetes.
 
 <p></p>
 #### 3. Is polyuria related to obesity status?
 
-Chi2ContingencyResult(statistic=227.86583895496773, pvalue=1.7409117803442155e-51, dof=1, expected_freq=array([[100.76923077,  99.23076923],
+       Chi2ContingencyResult(statistic=227.86583895496773, pvalue=1.7409117803442155e-51, dof=1, expected_freq=array([[100.76923077,  99.23076923],
        [161.23076923, 158.76923077]]))
 
-       The P-Value of 1.74e-51 shows that there is strong significant evidence that there is a relationship between Polyuria status and diabetes.
+* The P-Value of 1.74e-51 shows that there is strong significant evidence that there is a relationship between Polyuria status and diabetes.
 
-<p></p>
+
 #### 4. Is gender related to polyuria status?
-Chi2ContingencyResult(statistic=36.49184228561174, pvalue=1.5330652930649977e-09, dof=1, expected_freq=array([[165.26153846,  96.73846154],
-       [162.73846154,  95.26153846]]))
+              Chi2ContingencyResult(statistic=36.49184228561174, pvalue=1.5330652930649977e-09, dof=1, expected_freq=array([[165.26153846,  96.73846154],
+              [162.73846154,  95.26153846]]))
 
-       P-Value of 1.53e-09 means that there is a strong evidence that there is a relationship between being a female and having a positive polyuria status.
+* P-Value of 1.53e-09 means that there is a strong evidence that there is a relationship between being a female and having a positive polyuria status.
        
-<p></p>
+
   #### 5.  Is there a relationship between age and diabetic status?
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/b8758ca0-51c2-4fc4-b3e1-a5cb10eb3938)
 
 
-Box plots don't seem to show a big difference between the means and medians of patients with and without diabetes, as there is a lot of overlap.
+* Box plots don't seem to show a big difference between the means and medians of patients with and without diabetes, as there is a lot of overlap.
 
 
-<p></p>
+
 #### Correlation heatmap
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/89ba799f-a9ab-4c37-a2fa-e10daa549700)
