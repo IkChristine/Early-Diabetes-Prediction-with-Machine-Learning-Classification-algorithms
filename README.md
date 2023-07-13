@@ -104,7 +104,7 @@ feature	importance
 
 <p>&nbsp;</p>
 
-#### DummyClassifier model to establish a baseline
+### DummyClassifier model to establish a baseline
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/099f29bb-92d4-4e9e-ac8a-42380b3484e0)
 
@@ -115,7 +115,7 @@ feature	importance
 
 <p>&nbsp;</p>
 
-#### Logistic regression model
+### Logistic regression model
 
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/28800408-d2aa-4e80-9e12-90b44af5b217)
@@ -129,7 +129,7 @@ feature	importance
 
 <p>&nbsp;</p>
 
-#### Decision Tree model
+### Decision Tree model
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/77035792-ef93-4bc9-b1f8-53f8031dc824)
 
@@ -138,7 +138,7 @@ feature	importance
 
 <p>&nbsp;</p>
 
-#### Random Forest Model
+### Random Forest Model
 
 ![image](https://github.com/IkChristine/Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms/assets/104997783/a7c3e8e1-68b8-48a1-b701-b159ca7a9bf4)
 
@@ -147,5 +147,5 @@ feature	importance
  * This is slighly lower compared to the Decision tree regression model accuracy of 96%
 
 
-### The overall best model in this analysis is the Decision tree at 95% prediction accuracy.
+## The overall best model in this analysis is the Decision tree at 95% prediction accuracy.
   
