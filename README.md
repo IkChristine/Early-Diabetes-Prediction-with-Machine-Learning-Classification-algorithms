@@ -11,6 +11,10 @@ Logistic Regression, Decision Tree, &amp; Random Forest Classification Algorithm
 
 <p>&nbsp;</p>
 
+
+### PART 1: Data Collection & Cleaning
+### PART 2: Analysis of data using Vizualization and Statistics
+
 ### Questions  to answer:
 
 #### 1. Is obesity related to diabetes status? or is it independent
