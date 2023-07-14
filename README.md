@@ -1,12 +1,12 @@
 # Early Diabetes Prediction based on patients' symptoms 
-Logistic Regression, Decision Tree, &amp; Random Forest
+Logistic Regression, Decision Tree, &amp; Random Forest Classification Algorithms
 
 
 #### This project aims to train Machine Learning classification models to predict whether a patient  is at risk of developing diabetes. 
 #### Key indicators (symptoms) correlated to diabetes will be identified.
 #### This project will be useful to clinicians, as it will help them understand how to better avoid missing the False Positive cases who may go undiagnosed.
 
-Data Souce: Collected data from UCI repository
+Data Souce: Collected data from UCI repository - https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset
 
 <p>&nbsp;</p>
 
@@ -148,4 +148,7 @@ feature	importance
 
 
 ## The overall best model in this analysis is the Decision tree at 95% prediction accuracy.
-  
+<p>&nbsp;</p>
+
+#### Reference:
+-  Early stage diabetes risk prediction dataset.. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5VG8H.
