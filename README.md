@@ -6,7 +6,8 @@ Logistic Regression, Decision Tree, &amp; Random Forest Classification Algorithm
 - Key indicators (symptoms) correlated to diabetes will be identified.
 - This project will be useful to clinicians, as it will help them understand how to better avoid missing the False Positive cases who may go undiagnosed.
 
-- Data Souce: Collected data from UCI repository - https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset
+#### Data Souce: 
+- Collected data from UCI repository - https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset
 
 <p>&nbsp;</p>
 
